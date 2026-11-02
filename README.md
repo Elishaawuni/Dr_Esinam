@@ -27,3 +27,7 @@ Log into the Studio. Open **Profile & Site Settings** first (name, profile pictu
 - Replace sample testimonial, resources, events and profile links (ORCID, Scholar, ResearchGate, Academia.edu, LinkedIn).
 - In `site/index.html` replace every `https://www.example.com/` (canonical, og:url, og:image, JSON-LD) with the real domain once bought, and replace `public/og-image.png` if desired (1200x630).
 - In Sanity > Profile & Site Settings, set the SEO title and description.
+=======
+# Dr_Esinam
+This is the professional website of Dr Felicia Esinam. A gender and social advocate and professional. She is a Senior lecturer at the University of Education, Winneba
+
